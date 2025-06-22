@@ -131,4 +131,36 @@ Features
     ├── Roblox User Info
     └── Roblox Id Info
 
+https://raw.githubusercontent.com/loxy0dev/RedTiger-Tools/refs/heads/main/Img/RedTiger.png
+https://raw.githubusercontent.com/loxy0dev/RedTiger-Tools/refs/heads/main/Img/RedTiger-3.png
+
+Requirements
+Windows:
+
+- Install Python with the PATH options.
+- Windows 10 & 11 or +
+Linux:
+
+- Latest version of Python.
+- Linux recent version.
+
+Installation
+
+Dowloads "RedTiger-Tools.zip" Here
+
+1 - Download the .zip folder.
+2 - Unzip the folder.
+3 - Launch "RedTigerInstaller.exe and Setup.py".
+
+Or
+
+1 - Open a terminal.
+2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
+3 - Write "cd RedTiger-Tools"
+4 - Write "git pull"
+5 - Write "python Setup.py"
+
+
+
+
 
