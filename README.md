@@ -131,8 +131,6 @@ Features
     ├── Roblox User Info
     └── Roblox Id Info
 
-https://raw.githubusercontent.com/loxy0dev/RedTiger-Tools/refs/heads/main/Img/RedTiger.png
-https://raw.githubusercontent.com/loxy0dev/RedTiger-Tools/refs/heads/main/Img/RedTiger-3.png
 
 Requirements
 Windows:
